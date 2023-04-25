@@ -1,7 +1,6 @@
 {
   "version": "v0.1.14",
   "notes": "Test version",
-  "pub_date": "2023-06-25T19:25:57Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "Content of app.tar.gz.sig",
