@@ -1,5 +1,5 @@
 {
-  "version": "v0.1.15",
+  "version": "v0.1.14",
   "notes": "Test version",
   "pub_date": "2023-24-22T19:25:57Z",
   "platforms": {
@@ -16,8 +16,8 @@
       "url": "https://cdn.discordapp.com/attachments/1100425566861131918/1100437883346759791/raita_0.1.13_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "Content of app.msi.sig",
-      "url": "https://cdn.discordapp.com/attachments/1100425566861131918/1100437883661340683/Raita_0.1.13_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUa0kvZVhUczlmRmpEMkJVMjAyLzBHWHljQm9TVlRQVGN2a2ZERldLbkROTDN3SFp6OUpMemh4WHA0ZHN4Y1dWL3ZKenZWRlNoSWpNY0xWSUhpWmI3TVFxZzgyV2VrS2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgyNDQyOTU2CWZpbGU6UmFpdGFfMC4xLjE0X3g2NF9lbi1VUy5tc2kuemlwCndGWmk5SU1SV2VsUDVmcjFVTEFncjFtQnZkNnhKalVER2dYQW9FUzJHQzJuZENPekRnOHJPQUJpaVFWTVNRSEptemtGWkltb0RGVm0zd29XZGU4YUNRPT0K",
+      "url": "https://cdn.discordapp.com/attachments/1100425566861131918/1100471034769059860/Raita_0.1.14_x64_en-US.msi.zip"
     }
   }
 }
